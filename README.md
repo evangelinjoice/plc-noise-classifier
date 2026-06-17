@@ -50,9 +50,5 @@ Then open: http://127.0.0.1:5000
 
 ## Author
 
-Eva -- 3rd Year ECE Student
-NPTEL Certified -- Database Management Systems (IIT Kharagpur, Elite)
+ Evangelin joice.V
 
-## License
-
-MIT License
